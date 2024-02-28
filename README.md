@@ -1,6 +1,6 @@
 ### Nora's GitHub
 
 
-- Currently learning C++ and Python
+- First year computer science student
+- Currently learning C++
 - How to reach me: nosu5119@colorado.edu
-- Pronouns: she/her
