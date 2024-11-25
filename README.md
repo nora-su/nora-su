@@ -1,6 +1,7 @@
-### Nora's GitHub
+### Nora's GitHub 
 
 
 - Second year computer science student
-- Currently learning C++
-- How to reach me: nosu5119@colorado.edu
+- Proficient in C++, Java, Python
+- Contact: nosu5119@colorado.edu
+- Connect: https://www.linkedin.com/in/norasu/
