@@ -1,7 +1,7 @@
-### Nora's GitHub 
+### nora's github 
 
-
-- Second year computer science student
-- Proficient in C++, Java, Python
-- Contact: nosu5119@colorado.edu
-- Connect: https://www.linkedin.com/in/norasu/
+- second year computer science student
+- proficient in C++, Java, Python
+- undergraduate researcher in the CAIRO Lab
+- learning assistant for Intro to Computing
+- contact me: nosu5119@colorado.edu
